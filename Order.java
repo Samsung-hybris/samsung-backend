@@ -10,5 +10,7 @@ public class Order {
 	public void display() {
 		System.out.println("Product Id = "+product.productId);
 		System.out.println("Product Name = "+product.productName);
+				System.out.println("Product Id = "+product.productId);
+		System.out.println("Product Name = "+product.productName);
 	}
 }
