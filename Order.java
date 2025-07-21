@@ -14,6 +14,8 @@ public class Order {
 		System.out.println("Product Name = "+product.productName);
 		System.out.println("** Product Details **");
 		System.out.println("** Thank You & Visit Again **");
+		System.out.println("** Product updates **");
+		System.out.println("** product information **");
 		
 		
 	}
