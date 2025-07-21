@@ -23,7 +23,9 @@ public class Customer {
 	public void setAddress(String address) {
 		this.address = address;
 	}
-	
+	public void setAddress(String address) {
+		this.address = address;
+	}
 	
 	void displayCustomerDetails() {
 		System.out.println("Customer Details: ");
@@ -36,7 +38,6 @@ public class Customer {
 		System.out.println("--- welcome to git ---");
 		System.out.println("--- welcome to Durga ---");
 		System.out.println("--- welcome to ravi ---");
-		System.out.println("--- welcome to praveen ---");
 		
 
 		
